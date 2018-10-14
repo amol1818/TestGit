@@ -1,1 +1,8 @@
-this is my girst test file
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
+This is my first git commit.
